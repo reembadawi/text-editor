@@ -1,0 +1,11 @@
+D:\ooop\simple text editor\bin\Debug\simple text editor.exe.config
+D:\ooop\simple text editor\bin\Debug\simple text editor.exe
+D:\ooop\simple text editor\bin\Debug\simple text editor.pdb
+D:\ooop\simple text editor\obj\Debug\simple text editor.csproj.AssemblyReference.cache
+D:\ooop\simple text editor\obj\Debug\simple text editor.csproj.SuggestedBindingRedirects.cache
+D:\ooop\simple text editor\obj\Debug\simple_text_editor.Form1.resources
+D:\ooop\simple text editor\obj\Debug\simple_text_editor.Properties.Resources.resources
+D:\ooop\simple text editor\obj\Debug\simple text editor.csproj.GenerateResource.cache
+D:\ooop\simple text editor\obj\Debug\simple text editor.csproj.CoreCompileInputs.cache
+D:\ooop\simple text editor\obj\Debug\simple text editor.exe
+D:\ooop\simple text editor\obj\Debug\simple text editor.pdb
